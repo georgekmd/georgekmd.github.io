@@ -6,8 +6,8 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: George
 middle_name: 
 last_name: Kourounis
-contact_note: >
-  Feel free to reach out regarding research collaborations or clinical questions.
+contact_note: > # a short note to appear at the bottom of the home page
+  
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Clinical Research Fellow and PhD candidate specializing in abdominal organ transplantation and computer vision AI for organ assessment.
 footer_text: >
