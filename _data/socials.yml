@@ -15,11 +15,11 @@ scholar_userid: X6Q-y3EAAAAJ&hl=en # your Google Scholar ID (you'll need to prov
 research_gate_profile: Georgios-Kourounis?ev=hdr_xprf # your profile on ResearchGate (you'll need to provide this)
 orcid_id: 0000-0002-1051-078X # your ORCID ID (you'll need to provide this)
 
-# Custom PubMed link
-custom_social:
-  logo: https://www.iconarchive.com/download/i147310/academicons-team/academicons/pubmed.1024.png
-  title: PubMed
-  url: https://pubmed.ncbi.nlm.nih.gov/?sort=date&term=Kourounis+G&cauthor_id=40924859
+# # Custom PubMed link
+# custom_social:
+#   logo: https://www.iconarchive.com/download/i147310/academicons-team/academicons/pubmed.1024.png
+#   title: PubMed
+#   url: https://pubmed.ncbi.nlm.nih.gov/?sort=date&term=Kourounis+G&cauthor_id=40924859
 
 github_username: geokour # your GitHub user name
 linkedin_username: george-kourounis-7b303135b # your LinkedIn user name (you'll need to provide this)
