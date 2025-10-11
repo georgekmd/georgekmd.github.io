@@ -14,6 +14,13 @@
 scholar_userid: X6Q-y3EAAAAJ&hl=en # your Google Scholar ID (you'll need to provide this)
 research_gate_profile: Georgios-Kourounis?ev=hdr_xprf # your profile on ResearchGate (you'll need to provide this)
 orcid_id: 0000-0002-1051-078X # your ORCID ID (you'll need to provide this)
+
+# Custom PubMed link
+custom_social:
+  logo: https://www.iconarchive.com/download/i147310/academicons-team/academicons/pubmed.1024.png
+  title: PubMed
+  url: https://pubmed.ncbi.nlm.nih.gov/?sort=date&term=Kourounis+G&cauthor_id=40924859
+
 github_username: geokour # your GitHub user name
 linkedin_username: george-kourounis-7b303135b # your LinkedIn user name (you'll need to provide this)
 bluesky_url: https://bsky.app/profile/georgek.medsky.social # your bluesky URL (you'll need to provide this)
@@ -29,8 +36,10 @@ bluesky_url: https://bsky.app/profile/georgek.medsky.social # your bluesky URL (
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
-# work_url: # work page URL
+# work_url: https://pubmed.ncbi.nlm.nih.gov/?sort=date&term=Kourounis+G&cauthor_id=40924859 # PubMed search for your publications
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 # Remove default custom social example
+
+
