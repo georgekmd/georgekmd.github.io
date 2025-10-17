@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.ncl.ac.uk/'>Newcastle University</a> • RCSEng Clinical Research Fellow • General Surgery SpR • PhD Candidate
+subtitle: NIHR & RCSEng Clinical Research Fellow in <strong>Surgical AI</strong> @ <a href="https://www.ncl.ac.uk/">Newcastle University</a>
+
 
 profile:
   align: right
