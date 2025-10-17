@@ -27,4 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Description here
+I’m a **surgeon and researcher** based in **Newcastle**, working on how **artificial intelligence** can make organ transplantation **safer, fairer, and more efficient**.  
+
+Supported by fellowships from the [NIHR](https://www.nihr.ac.uk) and [Royal College of Surgeons of England](https://www.rcseng.ac.uk), my research combines clinical insight with methods from **computer vision**, statistical modelling, and high-performance computing to develop tools that learn from large-scale datasets. My PhD, under the supervision of [Professor Colin Wilson](https://scholar.google.com/citations?user=rgeYiIYAAAAJ&hl=en) and [Professor Neil Sheerin](https://www.ncl.ac.uk/medical-sciences/people/profile/neilsheerin.html), focuses on how AI can **quantify organ quality** and **reduce the uncertainty** that often shapes clinical judgement.  
+
+I’m motivated by the belief that **technology should not only make medicine smarter but also fairer**, ensuring that every decision has the best possible chance to improve patient care.
