@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /Talks/
+permalink: /talks/
 title: Talks
-description: A curated selection of invited talks and conference presentations highlighting my work in surgery, computer vision, and health data science.
+description: A selection of invited talks and conference presentations highlighting my work in surgery, computer vision, and health data science.
 nav: true
 nav_order: 6
 ---
@@ -17,7 +17,7 @@ nav_order: 6
       <div class="timeline-content">
         <h4>AI at the Cutting Edge: Real-Time Imaging to Optimize Organ Selection for Transplantation</h4>
         <p class="venue">International Transplantation Science (ITS) Meeting 2025</p>
-        <p class="location">San Diego, California</p>
+        <p class="location">San Diego, California, USA</p>
       </div>
     </div>
 
@@ -64,28 +64,65 @@ nav_order: 6
 ## Oral Presentations
 
 <div class="resume-section">
-  <!-- Add your oral presentations here -->
+  <!-- Oral presentations (author lists in place of descriptions) -->
+
   <div class="resume-talk">
     <div class="resume-left">
-      <div class="resume-date">September 2024</div>
-      <div class="resume-location">Vienna, Austria</div>
+      <div class="resume-date">June 2025</div>
+      <div class="resume-location">London, UK</div>
     </div>
     <div class="resume-right">
-      <h4>AI-Driven Organ Assessment in Transplantation</h4>
-      <p class="resume-venue">International Conference on Transplantation Medicine</p>
-      <p class="resume-description">Presented research findings on automated organ quality assessment using computer vision and machine learning algorithms.</p>
+      <h4>Automated abdominal organ segmentation using deep learning for donation photographs</h4>
+      <p class="resume-venue">ESOT Congress</p>
+      <p class="resume-description">G Kourounis, AA Elmahmudi, AD Valli, R Pook, B Thomson, SJ Tingle, B Mahendran, ER Thompson, J Hunter, H Ugail, C Wilson</p>
     </div>
   </div>
-  
+
   <div class="resume-talk">
     <div class="resume-left">
-      <div class="resume-date">March 2024</div>
-      <div class="resume-location">Boston, USA</div>
+      <div class="resume-date">March 2025</div>
+      <div class="resume-location">Brighton, UK</div>
     </div>
     <div class="resume-right">
-      <h4>Deep Learning in Clinical Research</h4>
-      <p class="resume-venue">American Medical Informatics Association Conference</p>
-      <p class="resume-description">Discussed the implementation of deep learning models in clinical research workflows and their impact on patient care.</p>
+      <h4>Inter-rater variation in visual quality assessments of donated livers and kidneys among consultant and trainee transplant surgeons</h4>
+      <p class="resume-venue">BTS NHSBT Annual Congress</p>
+      <p class="resume-description">G Kourounis, SJ Tingle, B Mahendran, ER Thompson, AA Elmahmudi, B Thomson, H Ugail, J Hunter, C Wilson — on behalf of the OrQA collaborative</p>
+    </div>
+  </div>
+
+  <div class="resume-talk">
+    <div class="resume-left">
+      <div class="resume-date">January 2025</div>
+      <div class="resume-location">Innsbruck, Austria</div>
+    </div>
+    <div class="resume-right">
+      <h4>One-year HbA1c as a predictor of long-term graft survival in SPK transplantation: UNOS registry analysis</h4>
+      <p class="resume-venue">14th EPITA International Conference</p>
+      <p class="resume-description">G Kourounis, SJ Tingle, A Maillo-Nieto, C Wroe, J Shaw, S White, C Wilson</p>
+    </div>
+  </div>
+
+  <div class="resume-talk">
+    <div class="resume-left">
+      <div class="resume-date">May 2024</div>
+      <div class="resume-location">Houston, Texas, USA</div>
+    </div>
+    <div class="resume-right">
+      <h4>Organ Quality Assessment for Livers (OrQA-L): Real-time photographic assessment of macroscopic steatosis at time of retrieval using computer vision models</h4>
+      <p class="resume-venue">International Liver Transplantation Society Annual Congress</p>
+      <p class="resume-description">G Kourounis, A Elmahmudi, B Thomson, R Nandi, S Tingle, E Thompson, J Hunter, H Ugail, C Wilson</p>
+    </div>
+  </div>
+
+  <div class="resume-talk">
+    <div class="resume-left">
+      <div class="resume-date">January 2023</div>
+      <div class="resume-location">Innsbruck, Austria</div>
+    </div>
+    <div class="resume-right">
+      <h4>Assessment of pancreatic steatosis and transplant suitability using image based ML models</h4>
+      <p class="resume-venue">12th EPITA International Conference</p>
+      <p class="resume-description">G Kourounis, P Ezuma, M Turner, S Cornateanu, L Bates, E Thompson, S Tingle, G Sen, W E Scott III, S White, C Wilson</p>
     </div>
   </div>
 </div>
