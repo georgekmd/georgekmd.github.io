@@ -2,7 +2,7 @@
 layout: page
 permalink: /Talks/
 title: Talks
-description: A collection of invited talks and oral presentations.
+description: A curated selection of invited talks and conference presentations highlighting my work in surgery, computer vision, and health data science.
 nav: true
 nav_order: 6
 ---
@@ -11,24 +11,49 @@ nav_order: 6
 
 <div class="timeline-section">
   <div class="timeline">
-    <!-- Add your invited talks here -->
+    <!-- Invited talks added from user list (no descriptions) -->
+    <div class="timeline-item">
+      <div class="timeline-date">Nov 2025</div>
+      <div class="timeline-content">
+        <h4>AI at the Cutting Edge: Real-Time Imaging to Optimize Organ Selection for Transplantation</h4>
+        <p class="venue">International Transplantation Science (ITS) Meeting 2025</p>
+        <p class="location">San Diego, California</p>
+      </div>
+    </div>
+
+    <div class="timeline-item">
+      <div class="timeline-date">Nov 2025</div>
+      <div class="timeline-content">
+        <h4>AI in Organ Transplantation: Beyond the Hype</h4>
+        <p class="venue">UK Organ Donation and Transplantation Research Network (UKODTRN) — Public Webinar</p>
+        <p class="location">Online</p>
+      </div>
+    </div>
+
     <div class="timeline-item">
       <div class="timeline-date">Oct 2024</div>
       <div class="timeline-content">
-        <h4>Advanced Computer Vision in Medical Imaging</h4>
-        <p class="venue">European Conference on Medical AI</p>
-        <p class="location">Barcelona, Spain</p>
-        <p class="description">Presented novel approaches to organ assessment using deep learning techniques for transplantation medicine.</p>
+        <h4>AI in Organ Transplantation</h4>
+        <p class="venue">Northern Transplant Centres Conference for Healthcare Professionals</p>
+        <p class="location">Newcastle upon Tyne, UK</p>
       </div>
     </div>
-    
+
+    <div class="timeline-item">
+      <div class="timeline-date">Sep 2024</div>
+      <div class="timeline-content">
+        <h4>Can AI help optimise the utilisation of marginal organs in transplantation?</h4>
+        <p class="venue">ENGAGE: Medical Education - Chiesi Medical</p>
+        <p class="location">Online</p>
+      </div>
+    </div>
+
     <div class="timeline-item">
       <div class="timeline-date">Jun 2024</div>
       <div class="timeline-content">
-        <h4>Machine Learning Applications in Surgery</h4>
-        <p class="venue">International Surgery Symposium</p>
-        <p class="location">London, UK</p>
-        <p class="description">Discussed integration of AI technologies in modern surgical practices and patient outcomes.</p>
+        <h4>Artificial Intelligence in Transplantation: Past, present, and future</h4>
+        <p class="venue">Scotblood 2024 Conference</p>
+        <p class="location">Stirling, UK</p>
       </div>
     </div>
   </div>
