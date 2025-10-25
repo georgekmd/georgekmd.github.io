@@ -12,7 +12,7 @@ profile:
   more_info: >
     <p>Newcastle University</p>
     <p>Newcastle upon Tyne, UK</p>
-    <p>george.kourounis@gmail.com</p>
+    <p>george.kourounis@ncl.ac.uk</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
