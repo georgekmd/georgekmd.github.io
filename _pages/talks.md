@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /talks/
-title: talks
+permalink: /Talks/
+title: Talks
 description: A collection of invited talks and oral presentations.
 nav: true
 nav_order: 6

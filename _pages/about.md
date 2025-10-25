@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: NIHR & RCSEng Clinical Research Fellow in <strong>Surgical AI</strong> @ <a href="https://www.ncl.ac.uk/">Newcastle University</a>
 
