@@ -138,7 +138,7 @@ nav_order: 6
   padding-left: 3rem;
 }
 
-.timeline::before {
+/* .timeline::before {
   content: '';
   position: absolute;
   left: 1.315rem;
@@ -146,7 +146,7 @@ nav_order: 6
   bottom: 0;
   width: 2px;
   background: var(--global-theme-color);
-}
+} */
 
 .timeline-item {
   position: relative;
@@ -178,6 +178,7 @@ nav_order: 6
   color: var(--global-text-color);
   font-size: 1.2rem;
   line-height: 1.3;
+  font-weight: bold;
 }
 
 .timeline-content .venue {
@@ -185,6 +186,8 @@ nav_order: 6
   color: var(--global-text-color);
   margin: 0.5rem 0;
   font-size: 1rem;
+  font-weight: normal;
+
 }
 
 .timeline-content .location {
@@ -242,6 +245,7 @@ nav_order: 6
   color: var(--global-text-color);
   font-size: 1.2rem;
   line-height: 1.3;
+  font-weight: bold;
 }
 
 .resume-venue {
@@ -249,6 +253,7 @@ nav_order: 6
   margin: 0.5rem 0;
   color: var(--global-text-color);
   font-size: 1rem;
+  font-weight: normal;
 }
 
 .resume-description {
