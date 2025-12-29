@@ -13,6 +13,15 @@ nav_order: 6
   <div class="timeline">
     <!-- Invited talks added from user list (no descriptions) -->
     <div class="timeline-item">
+      <div class="timeline-date">Dec 2025</div>
+      <div class="timeline-content">
+        <h4>Future Forward: 2026 & Beyond - Computer Vision and Its Role in Organ Transplantation</h4>
+        <p class="venue">34 Lives Investigators Meeting</p>
+        <p class="location">West Lafayette, Indiana, USA</p>
+      </div>
+    </div>
+
+    <div class="timeline-item">
       <div class="timeline-date">Nov 2025</div>
       <div class="timeline-content">
         <h4>AI at the Cutting Edge: Real-Time Imaging to Optimize Organ Selection for Transplantation</h4>
