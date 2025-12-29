@@ -28,8 +28,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a **surgeon and researcher** based in **Newcastle**, working on how **artificial intelligence** can make organ transplantation **safer, fairer, and more efficient**.  
+I am a **surgeon and researcher** working to reduce uncertainty in organ transplantation.
 
-Supported by fellowships from the [NIHR](https://www.nihr.ac.uk) and [Royal College of Surgeons of England](https://www.rcseng.ac.uk), my research combines clinical insight with methods from **computer vision**, statistical modelling, and high-performance computing to develop tools that learn from large-scale datasets. My PhD, under the supervision of [Professor Colin Wilson](https://scholar.google.com/citations?user=rgeYiIYAAAAJ&hl=en) and [Professor Neil Sheerin](https://www.ncl.ac.uk/medical-sciences/people/profile/neilsheerin.html), focuses on how AI can **quantify organ quality** and **reduce the uncertainty** that often shapes clinical judgement.  
+I am motivated by the belief that **technology should not only make medicine smarter but also fairer**, ensuring that every decision has the best possible chance to improve patient care.
 
-I’m motivated by the belief that **technology should not only make medicine smarter but also fairer**, ensuring that every decision has the best possible chance to improve patient care.
+Bridging the gap between clinical practice and machine learning, I work with large-scale datasets and high-performance computing to develop **computer vision models** that extract objective data from surgical photographs. By translating subjective visual information into objective metrics, these tools aim to support clinicians in making safer, more consistent decisions, ultimately maximizing the utilization of donor organs.
+
+This work is supported by the [NIHR](https://www.nihr.ac.uk) and [Royal College of Surgeons of England](https://www.rcseng.ac.uk). My PhD, under the supervision of [Professor Colin Wilson](https://scholar.google.com/citations?user=rgeYiIYAAAAJ&hl=en) and [Professor Neil Sheerin](https://www.ncl.ac.uk/medical-sciences/people/profile/neilsheerin.html) at Newcastle University, focuses on how AI can **quantify organ quality** and **reduce the uncertainty** that often shapes clinical judgement. 
