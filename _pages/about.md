@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: NIHR & RCSEng Clinical Research Fellow in <strong>Surgical AI</strong> @ <a href="https://www.ncl.ac.uk/">Newcastle University</a> <hr /> <br>
+subtitle: NIHR & RCSEng Clinical Research Fellow in <strong>Surgical AI</strong> @ <a href="https://www.ncl.ac.uk/medical-sciences/people/profile/georgekourounis.html">Newcastle University</a> <hr /> <br>
 
 
 profile:
