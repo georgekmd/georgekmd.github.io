@@ -2,78 +2,69 @@
   type: map
   contents:
     - name: Full Name
-      value: George Kourounis
-    - name: Position
-      value: Clinical Research Fellow & PhD Candidate
+      value: Georgios Kourounis
+    - name: Qualifications
+      value: BSc, MBBS, MSc, MRCS
+    - name: Current Position
+      value: RCSEng Clinical Research Fellow & General Surgery Registrar
+    - name: Research Interests
+      value: AI decision support for transplantation • Generative AI in healthcare • Health data science
+    - name: Technical Skills
+      value: Python, R, Git/Github, Bash, Slurm • Cluster/HPC • Systematic review & Cochrane
+    - name: Clinical Skills
+      value: Emergency general surgery • HPB surgery • Abdominal organ transplantation
     - name: Languages
-      value: English, Greek
+      value: English, Greek, French
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD (In Progress)
+    - title: PhD candidate (Transplantation & AI)
       institution: Newcastle University, Newcastle upon Tyne, UK
-      year: Present
+      year: 2023 - Present
       description:
         - Computer Vision AI algorithms for organ quality assessment
         - Statistical modelling for transplant medicine
         - Focus on improving organ utilisation and transplantation access
-    - title: MSc Surgical Sciences
+    - title: MSc in Surgical Sciences
       institution: University of Edinburgh, Edinburgh, UK
-      year: 
+      year: 2016 - 2019
       description:
-        - Advanced surgical training and research methods
+        - Awarded with disctinction
     - title: MBBS Medicine
       institution: St George's University of London, London, UK
-      year: 
+      year: 2012 - 2016
       description:
-        - Medical degree with clinical training
-    - title: BSc
+        - Awarded with disctinction
+    - title: BSc in Psychology
       institution: York University, Toronto, Canada
-      year: 
+      year: 2009 - 2012
       description:
-        - Undergraduate degree
+        - Summa Cum Laude
 
 - title: Experience
   type: time_table
   contents:
-    - title: Clinical Research Fellow
-      institution: Freeman Hospital, Newcastle upon Tyne, UK
-      year: Present
+    - title: RCSEng & NIHR Clinical Research Fellow & PhD Candidate
+      institution: Newcastle University / NIHR Blood & Transplant Research Unit, Newcastle upon Tyne, UK
+      year: 2022 - Present
       description:
-        - Abdominal organ transplantation research and clinical practice
-        - Development of AI algorithms for organ assessment
-        - Statistical modelling and data analysis
-    - title: General Surgery Registrar
-      institution: Freeman Hospital, Newcastle upon Tyne, UK
-      year: Present
+        - AI-driven organ quality assessment for transplantation; statistical modelling of transplant outcomes
+    - title: Resident Medical Doctor (General Surgery & Abdominal Transplant Surgery)
+      institution: NHS England & NHS Scotland
+      year: 2016 - Present
       description:
-        - Specializing in abdominal organ transplantation
-        - Complex surgical procedures and patient care
-        - Clinical training and supervision of junior doctors
+        - Training in general surgery across West of Scotland and North East England with specialization in abdominal organ transplantation; currently General Surgery Registrar in Newcastle
+    - title: Honorary Clinical Lecturer
+      institution: University of Glasgow, Glasgow, UK
+      year: 2018 - 2021
+      description:
+        - Led medical student research, mentoring, and teaching as academic resident doctor
 
-- title: Research Interests
-  type: nested_list
-  contents:
-    - title: Computer Vision & AI
-      items:
-        - Medical image analysis for organ assessment
-        - Machine learning applications in transplant medicine
-        - Cluster supercomputing and high-performance computing
-    - title: Transplant Medicine
-      items:
-        - Abdominal organ transplantation
-        - Organ quality assessment and utilisation
-        - Improving access to transplantation
-    - title: Clinical Research
-      items:
-        - Statistical modelling in healthcare
-        - Clinical outcomes research
-        - Healthcare technology integration
-
-- title: Technical Skills
+- title: Awards, Grants & Funding
   type: list
   contents:
-    - <u>Programming:</u> Statistical modelling, Computer vision algorithms
-    - <u>Computing:</u> Cluster supercomputers, High-performance computing
-    - <u>Clinical:</u> Abdominal surgery, Organ transplantation, Patient care
+    - RCS Eng Surgical Research Fellowship • Royal College of Surgeons England
+    - NIHR BTRU Doctoral Fellowship • National Institute for Health & Care Research
+    - Northern Accelerator Feasibility & Proof-of-Concept Grant
+    - Travel & Education Bursaries • ESOT, BTS, QUOD

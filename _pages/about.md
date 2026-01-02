@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a **surgeon and researcher** passionate about leveraging AI to transform care delivery and improve health outcomes at scale. 
+I am a **surgeon and researcher** passionate about leveraging AI to improve health outcomes at scale. 
 
 I am motivated by the belief that **technology should not only make medicine smarter but also fairer**, ensuring that every decision has the best possible chance to improve patient care.
 
