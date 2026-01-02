@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: Talks
-description: A selection of invited talks and conference presentations highlighting my work in surgery, computer vision, and health data science.
+description: A selection of invited talks and conference presentations.
 nav: true
 nav_order: 3
 ---
