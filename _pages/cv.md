@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /cv-alt1/
-title: CV Alt 1
+permalink: /cv/
+title: CV
 description:
 nav: true
 nav_order: 9
