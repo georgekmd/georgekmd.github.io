@@ -1,1 +1,1 @@
-$(document).ready((function(){var e=.8,o=Math.min(window.innerWidth,window.innerHeight)*((1-e)/2);medium_zoom=mediumZoom("[data-zoomable]",{margin:o,background:getComputedStyle(document.documentElement).getPropertyValue("--global-bg-color")+"ee"})}));
+$(document).ready(function(){var e=.8,o=Math.min(window.innerWidth,window.innerHeight)*((1-e)/2);medium_zoom=mediumZoom("[data-zoomable]",{margin:o,background:getComputedStyle(document.documentElement).getPropertyValue("--global-bg-color")+"ee"})});
