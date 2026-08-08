@@ -6,7 +6,7 @@
     - name: Qualifications
       value: BSc, MBBS, MSc, MRCS
     - name: Current Position
-      value: RCSEng Clinical Research Fellow & General Surgery Registrar
+      value: Associate Clinical Lecturer & General Surgery Registrar
     - name: Research Interests
       value: AI decision support for transplantation • Generative AI in healthcare • Health data science
     - name: Technical Skills
@@ -45,21 +45,30 @@
 - title: Experience
   type: time_table
   contents:
-    - title: RCSEng & NIHR Clinical Research Fellow & PhD Candidate
-      institution: Newcastle University / NIHR Blood & Transplant Research Unit, Newcastle upon Tyne, UK
-      year: 2022 - Present
-      description:
-        - AI-driven organ quality assessment for transplantation; statistical modelling of transplant outcomes
-    - title: Resident Medical Doctor (General Surgery & Abdominal Transplant Surgery)
-      institution: NHS England & NHS Scotland
+    - title: Resident Doctor — General Surgery
+      institution: NHS Scotland & NHS England
       year: 2016 - Present
       description:
-        - Training in general surgery across West of Scotland and North East England with specialization in abdominal organ transplantation; currently General Surgery Registrar in Newcastle
-    - title: Honorary Clinical Lecturer
-      institution: University of Glasgow, Glasgow, UK
-      year: 2018 - 2021
+        - Foundation and core surgical training across the West of Scotland
+        - Specialist Registrar in the North East of England, with a focus on HPB and abdominal organ transplantation
+    - title: Associate Clinical Lecturer
+      institution: Newcastle University / NIHR Blood & Transplant Research Unit, Newcastle upon Tyne, UK
+      year: 2026 - Present
       description:
-        - Led medical student research, mentoring, and teaching as academic resident doctor
+        - Computer vision AI for donor organ quality assessment and utilisation
+        - Clinical academic post combining higher surgical training with transplant AI research
+    - title: Transplant International Editorial Fellow
+      institution: Journal of the European Society for Organ Transplantation (ESOT)
+      year: 2026 - 2027
+      description:
+        - Fellowship pairing early-career transplant professionals with an editor-in-chief
+        - Mentoring in scientific editing and publishing
+    - title: RCSEng & NIHR Clinical Research Fellow
+      institution: Newcastle University / NIHR Blood & Transplant Research Unit, Newcastle upon Tyne, UK
+      year: 2022 - 2026
+      description:
+        - AI-driven organ quality assessment for transplantation using computer vision
+        - Statistical modelling of transplant outcomes
 
 - title: Awards, Grants & Funding
   type: list

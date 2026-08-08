@@ -9,10 +9,10 @@ last_name: Kourounis
 contact_note: > # a short note to appear at the bottom of the home page
   
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Clinical Research Fellow and PhD candidate specializing in abdominal organ transplantation and computer vision AI for organ assessment.
+  Associate Clinical Lecturer and PhD candidate specialising in abdominal organ transplantation and computer vision AI for organ assessment.
 footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: general-surgery, organ-transplantation, computer-vision, clinical-research, AI, medical-AI, georgios, kourounis # add your own keywords or leave empty
+keywords: general-surgery, organ-transplantation, computer-vision, clinical-research, AI, medical-AI, associate-clinical-lecturer, newcastle-university, organ-utilisation, transplant-international, georgios, kourounis # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.png
 # 🪶 the emoji used as the favicon (alternatively, provide image name in /assets/img/)

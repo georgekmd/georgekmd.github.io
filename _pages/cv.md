@@ -15,7 +15,7 @@ nav_order: 9
     <div class="cva1-profile-block">
       <div class="cva1-name">Georgios Kourounis</div>
       <div class="cva1-creds">BSc &nbsp;·&nbsp; MBBS &nbsp;·&nbsp; MSc &nbsp;·&nbsp; MRCS</div>
-      <div class="cva1-role"><strong>RCSEng Clinical Research Fellow<br>General Surgery Registrar</strong></div>
+      <div class="cva1-role"><strong>Associate Clinical Lecturer<br>General Surgery Registrar</strong></div>
     </div>
 
     <div class="cva1-section">
@@ -109,10 +109,50 @@ nav_order: 9
     <section class="cva1-main-section">
       <h2 class="cva1-section-heading">Experience</h2>
 
+      <div class="cva1-subheading">Clinical</div>
+
       <div class="cva1-entry">
-        <div class="cva1-entry-year">2022 – Present</div>
+        <div class="cva1-entry-year">2016 – Present</div>
         <div class="cva1-entry-body">
-          <div class="cva1-entry-title">RCSEng &amp; NIHR Clinical Research Fellow &amp; PhD Candidate</div>
+          <div class="cva1-entry-title">Resident Doctor — General Surgery</div>
+          <div class="cva1-entry-inst">NHS Scotland &amp; NHS England</div>
+          <ul class="cva1-entry-desc">
+            <li>Foundation and core surgical training across the West of Scotland</li>
+            <li>Specialist Registrar in the North East of England, with a focus on HPB and abdominal organ transplantation</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="cva1-subheading">Academic &amp; Editorial</div>
+
+      <div class="cva1-entry">
+        <div class="cva1-entry-year">2026 – Present</div>
+        <div class="cva1-entry-body">
+          <div class="cva1-entry-title">Associate Clinical Lecturer</div>
+          <div class="cva1-entry-inst">Newcastle University / NIHR Blood &amp; Transplant Research Unit, Newcastle upon Tyne, UK</div>
+          <ul class="cva1-entry-desc">
+            <li>Computer vision AI for donor organ quality assessment and utilisation</li>
+            <li>Clinical academic post combining higher surgical training with transplant AI research</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="cva1-entry">
+        <div class="cva1-entry-year">2026 – 2027</div>
+        <div class="cva1-entry-body">
+          <div class="cva1-entry-title">Transplant International Editorial Fellow</div>
+          <div class="cva1-entry-inst">Journal of the European Society for Organ Transplantation (ESOT)</div>
+          <ul class="cva1-entry-desc">
+            <li>Fellowship pairing early-career transplant professionals with an editor-in-chief</li>
+            <li>Mentoring in scientific editing and publishing</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="cva1-entry">
+        <div class="cva1-entry-year">2022 – 2026</div>
+        <div class="cva1-entry-body">
+          <div class="cva1-entry-title">RCSEng &amp; NIHR Clinical Research Fellow</div>
           <div class="cva1-entry-inst">Newcastle University / NIHR Blood &amp; Transplant Research Unit, Newcastle upon Tyne, UK</div>
           <ul class="cva1-entry-desc">
             <li>AI-driven organ quality assessment for transplantation using computer vision</li>
@@ -120,41 +160,7 @@ nav_order: 9
           </ul>
         </div>
       </div>
-
-      <div class="cva1-entry">
-        <div class="cva1-entry-year">2021 – Present</div>
-        <div class="cva1-entry-body">
-          <div class="cva1-entry-title">Specialist Registrar in General Surgery</div>
-          <div class="cva1-entry-inst">NHS England — North Eastern Deanery</div>
-          <ul class="cva1-entry-desc">
-            <li>Higher surgical training in general surgery with a focus on HPB & abdominal organ transplantation in the North East of England</li>
-          </ul>
-        </div>
-      </div>
-
-      <div class="cva1-entry">
-        <div class="cva1-entry-year">2018 – 2021</div>
-        <div class="cva1-entry-body">
-          <div class="cva1-entry-title">Honorary Clinical Lecturer</div>
-          <div class="cva1-entry-inst">University of Glasgow, Glasgow, UK</div>
-          <ul class="cva1-entry-desc">
-            <li>Led medical student research, mentoring, and teaching as academic resident doctor</li>
-          </ul>
-        </div>
-      </div>
     </section>
-      
-      <div class="cva1-entry">
-        <div class="cva1-entry-year">2016 – 2021</div>
-        <div class="cva1-entry-body">
-          <div class="cva1-entry-title">Foundation &amp; Core Surgical Training</div>
-          <div class="cva1-entry-inst">NHS Scotland</div>
-          <ul class="cva1-entry-desc">
-            <li>Foundation and core surgical training across the West of Scotland</li>
-          </ul>
-        </div>
-      </div>
-
 
     <section class="cva1-main-section">
       <h2 class="cva1-section-heading">Awards, Grants &amp; Funding</h2>
@@ -303,6 +309,21 @@ nav_order: 9
   border-bottom: 2px solid var(--global-theme-color);
   padding-bottom: 0.3rem;
   margin-bottom: 1.25rem;
+}
+
+.cva1-subheading {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--global-text-color-light);
+  border-bottom: 1px solid var(--global-divider-color);
+  padding-bottom: 0.3rem;
+  margin-bottom: 1.1rem;
+}
+
+.cva1-subheading:not(:first-of-type) {
+  margin-top: 1.8rem;
 }
 
 .cva1-entry {
